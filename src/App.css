@@ -18,6 +18,21 @@
   font-size: large;
 }
 
+.transaction-item {
+  border: 1px solid #000;
+  margin: 10px;
+}
+
+.transaction-remove {
+  float: right;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.form {
+  margin: 10px 0;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
